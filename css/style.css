@@ -1,0 +1,44 @@
+*{
+    font-family: 'Kreon', serif;
+}
+.anchor-link{
+    text-decoration: none;
+    color: white;
+    background-color: #fa804c;
+    margin: 5px;
+    padding: 13px 20px;
+    font-weight: 700;
+}
+.bag{
+    font-size: 45px;
+    margin-top: 20%;
+}
+.name{
+    color: #fa804c;
+}
+.change-color{
+    background-color: darkmagenta;
+    color: aliceblue;
+    padding: 10px 30px;
+    float: right;
+ 
+    
+    
+}
+b{
+   color: #fa804c;
+   font-size: 40px;
+   margin: 3%;
+}
+.title-card{
+    padding-top: 5px;
+    margin-top: 5px;
+    padding-left: 0px;
+}
+.box1 img{
+    width: 120px;
+}
+.sec1{
+    padding-top: 10%;
+}
+
