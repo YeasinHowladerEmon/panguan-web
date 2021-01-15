@@ -10,7 +10,7 @@
     font-weight: 700;
 }
 .bag{
-    font-size: 45px;
+    font-size: 55px;
     margin-top: 20%;
 }
 .name{
@@ -18,12 +18,9 @@
 }
 .change-color{
     background-color: darkmagenta;
-    color: aliceblue;
+    color: white;
     padding: 10px 30px;
     float: right;
- 
-    
-    
 }
 b{
    color: #fa804c;
@@ -41,4 +38,23 @@ b{
 .sec1{
     padding-top: 10%;
 }
-
+.section-1, header{
+    background-color: #fff9f4;
+}
+.sec-2{
+    font-weight: 400;
+    color: wheat;  
+   
+}
+.sec-3{
+    border-radius: 10px;
+}
+}
+@media (max-width: 768px) {
+    .middle, .pic-2 {
+        text-align: center;
+}
+@media (max-width: 576px) {
+    .middle, .pic-2 {
+            text-align: center;
+    }
