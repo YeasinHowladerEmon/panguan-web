@@ -49,12 +49,13 @@ b{
 .sec-3{
     border-radius: 10px;
 }
-}
 @media (max-width: 768px) {
     .middle, .pic-2 {
         text-align: center;
+    }
 }
 @media (max-width: 576px) {
     .middle, .pic-2 {
             text-align: center;
     }
+}
